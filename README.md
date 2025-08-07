@@ -3,6 +3,7 @@
 Este es un desafío que forma parte del programa  **Alura LATAM + Oracle Next Education**, diseñado para desarrollar el pensamiento computacional, 
   fortalecer la lógica, y mejorar el análisis y la resolución de problemas, usando JavaScript, HTML y CSS.
 
+![Estrellas](C:\Users\kmvil\Desktop\challenge-amigo-secreto-main\challenge-amigo-secreto\assets)
 
 <h2> ✨ Descripción </h2>
 <p> En este desafío, desarrollaramos una aplicación que permite a los usuarios ingresar nombres de amigos en una lista 
