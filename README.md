@@ -21,6 +21,8 @@ mostrando el resultado en pantalla.</p>
 - **Visualizar la lista:** Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
   
 - **Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+
+- **Nuevo sorteo:** Al hacer clic en el botón "Nuevo sorteo", el juego se reiniciará.
   
 
 <h2> 🖥️ Tecnologías utilizadas </h2>
@@ -38,4 +40,8 @@ mostrando el resultado en pantalla.</p>
   - ```style.css```: Define los estilos y el diseño visual de la aplicación.
     
   - ```app.js```: Contiene la lógica de JavaScript para manejar la funcionalidad de agregar amigos y sortear un amigo secreto.
+
+
+<h2> ☘️ Demo </h2>
     
+![demo-animation](https://github.com/user-attachments/assets/f659e1fb-6f04-42cd-8d1d-f1cf10192ddd)
