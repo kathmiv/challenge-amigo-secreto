@@ -118,11 +118,21 @@ button {
     cursor: pointer;
 }
 
-.button-new {
+.button-new:disabled {
     width: 300px;
     background-color: #e9e6dd;
     border: 2px solid #c3c1c1;
     color: #909090;
+}
+
+.button-new {
+    background-color: #FFF9EB;
+    color: #d24a19;
+    border: 2px solid #df521e;
+}
+
+.button-new:hover {
+    background-color: #e9e6dd;
 }
 
 .button-add {
