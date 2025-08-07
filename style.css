@@ -88,6 +88,9 @@ body {
 }
 
 .button-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
     width: 300px;
     justify-content: center;
 }
@@ -113,6 +116,13 @@ button {
     border-radius: 25px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     cursor: pointer;
+}
+
+.button-new {
+    width: 300px;
+    background-color: #e9e6dd;
+    border: 2px solid #c3c1c1;
+    color: #909090;
 }
 
 .button-add {
