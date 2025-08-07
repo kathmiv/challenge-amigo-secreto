@@ -32,6 +32,14 @@ function sortearAmigo() {
     let amigoSecreto = amigos[Math.floor(Math.random() * amigos.length)];
     let mostrarAmigo = document.getElementById("resultado");
     mostrarAmigo.textContent = "El amigo secreto es:" +amigoSecreto;
+        document.getElementById("nuevoSorteo").removeAttribute("disabled");
     
 }
 
+function nuevoSorteo() {
+    amigos = [];
+    document.getElementById("nuevoSorteo").setAttribute("disabled", "true");
+    document.getElementById("amigo").value = "";
+    document.getElementById("resultado").textContent = "";
+    actualizarListaAmigos();
+}
