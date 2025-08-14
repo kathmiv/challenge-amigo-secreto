@@ -4,7 +4,7 @@ Este es un desafío que forma parte del programa  **Alura LATAM + Oracle Next Ed
   fortalecer la lógica, y mejorar el análisis y la resolución de problemas, usando JavaScript, HTML y CSS.
 
 <h2> ✨ Descripción </h2>
-<p> En este desafío, desarrollaramos una aplicación que permite a los usuarios ingresar nombres de amigos en una lista 
+<p> En este desafío, desarrollamos una aplicación que permite a los usuarios ingresar nombres de amigos en una lista 
   para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
 El usuario deberá agregar nombres mediante un campo de texto y un botón **"Adicionar"**. Los nombres ingresados se mostrarán
